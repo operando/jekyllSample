@@ -1,8 +1,11 @@
 ---
 # YAML
-layout: defalt
+layout: default
+title: index
 ---
 
 # hello
 
 world
+
+![icon](/icon.jpg)
